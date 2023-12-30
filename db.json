@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "id": 2,
+      "name": "Carlos"
+    },
+    {
+      "id": 3,
+      "name": "Ana"
+    },
+    {
+      "name": "Dr. Jimmy Weber-Kulas",
+      "id": 4
+    },
+    {
+      "name": "Mr. Elijah Strosin",
+      "id": 5
+    },
+    {
+      "name": "Violet Feeney",
+      "id": 6
+    },
+    {
+      "name": "Michelle Casper",
+      "id": 7
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Antezana 247",
+      "userId": 1
+    },
+    {
+      "id": 11,
+      "title": "Live In Texas",
+      "userId": 1
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2242857100378112",
+      "id": 1
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1289704376893440",
+      "id": 2
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=222546599346176",
+      "id": 3
+    }
+  ]
+}
